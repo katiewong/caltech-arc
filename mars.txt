@@ -1,4 +1,6 @@
 This file contains information about Mars.
 Mars is red
-conflict sucks 
+
+since conflict sucks. let's resolve this.
+Here's Some old information about Mars
 Even newer information about Mars
