@@ -1,1 +1,2 @@
 This file contains information about Mars.
+Mars is red
